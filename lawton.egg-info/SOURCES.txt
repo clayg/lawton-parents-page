@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+lawton/__init__.py
+lawton.egg-info/PKG-INFO
+lawton.egg-info/SOURCES.txt
+lawton.egg-info/dependency_links.txt
+lawton.egg-info/entry_points.txt
+lawton.egg-info/not-zip-safe
+lawton.egg-info/top_level.txt
